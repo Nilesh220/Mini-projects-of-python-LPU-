@@ -1,6 +1,22 @@
-# Mini-projects-of-python-LPU-
-IT will contain all the python mini project of lpu in it.
-Mini Project’s problem statements:
+
+# Python Mini Projects
+
+An open source repo consisting of all the Python projects
+<br><br>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Nilesh220/Mini-projects-of-python-LPU-)
+![GitHub stars](https://img.shields.io/github/stars/Nilesh220/Mini-projects-of-python-LPU-)
+![GitHub forks](https://img.shields.io/github/forks/Nilesh220/Mini-projects-of-python-LPU-)
+<br><br>
+Make sure to **STAR** the repo and **FOLLOW** !
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Nilesh220"><img src="https://avatars.githubusercontent.com/u/113936379?v=4" height="64"></a>
+ <br>
+| Nilesh Kumar Gupta | https://github.com/Nilesh220 |
+
+
+
+# Project-List
 
 In every project you have to build a TUI (Text based user interface) 
 (No GUI and backend is to be used)
