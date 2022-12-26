@@ -332,11 +332,12 @@ You are given three lists’ names, mark’s and update’s where:
 </div>
 | Name | Github Profile |
 | --- | --- |
-| Nilesh Kumar Gupta | https://github.com/Nilesh220 |
-| Sayan Roy | https://github.com/D3FaltXD |
-| Aditya Kumar Singh | https://github.com/DashingAdi |
-| Paarth Mandyal | https://github.com/DaRkZ1177 |
-| Shivam | https://github.com/dimebot |
-| Shushant Kumar Awasthi | https://github.com/awasthi108 |
-| HARSH VARDHAN SINGH | https://github.com/harsh082ip|
-| Priyansh Khare | https://github.com/PriyanshK09 |
+<br>
+| Nilesh Kumar Gupta | https://github.com/Nilesh220 |<br>
+| Sayan Roy | https://github.com/D3FaltXD |<br>
+| Aditya Kumar Singh | https://github.com/DashingAdi |<br>
+| Paarth Mandyal | https://github.com/DaRkZ1177 |<br>
+| Shivam | https://github.com/dimebot |<br>
+| Shushant Kumar Awasthi | https://github.com/awasthi108 |<br>
+| HARSH VARDHAN SINGH | https://github.com/harsh082ip|<br>
+| Priyansh Khare | https://github.com/PriyanshK09 |<br>
