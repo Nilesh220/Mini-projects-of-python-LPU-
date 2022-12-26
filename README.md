@@ -340,4 +340,4 @@ You are given three lists’ names, mark’s and update’s where:
 | Shivam | https://github.com/dimebot |<br>
 | Shushant Kumar Awasthi | https://github.com/awasthi108 |<br>
 | HARSH VARDHAN SINGH | https://github.com/harsh082ip|<br>
-| Priyansh Khare | https://github.com/PriyanshK09 |<br>
+
