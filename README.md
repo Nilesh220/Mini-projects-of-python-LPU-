@@ -33,7 +33,7 @@ on adding if user play this game multiple number of times.
 Note: Dice contains face value’s (1 to 6)
 Hint: Make use of random.randint() function
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 2: 
 Create the Rock, Paper and Scissors game with Python, we need to take the user’s choice and 
 then we need to compare it with the computer choice which is taken using the random module 
@@ -55,7 +55,7 @@ CPU:1
 User:1
 Hint: Make use of random module to design the game
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 3: 
 Email Slicer is just a simple tool that will take multiple email address as an input and slice it to 
 produce the username and the domain associated with it. The email must be divided into two 
@@ -71,7 +71,7 @@ after slicing
 username :abc and domain: GMAIL.COM
 username: xyz and domain: YAHOO.COM
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 4
 Create a program that takes the length of the password as input and generates a random 
 password of the same length. The strength of the password depends equally on the 4 properties 
@@ -85,7 +85,7 @@ The properties to be followed for a strong password are:
 • Inclusion of at least one special character, e.g., @ #?]
 Note: do not use < or > in your password, as both can cause problems in Web browsers.
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 5:
 The task is to create a script that generates a random number between a fixed range, and if the 
 user guesses the number right in three chances, then user wins otherwise user lose.
@@ -107,7 +107,7 @@ output of “have one more try “. Your guess was too small”
 • If the user fails to guess the integer in the minimum number of guesses, he/she will 
 receive a “Better Luck Next Time!
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 6:
 You need to write a python script that generates an acronym word from a given sentence.
 • Take multiple strings as input in the form of list.
@@ -117,7 +117,7 @@ You need to write a python script that generates an acronym word from a given se
 • You have to generate acronyms for all given strings.
 (Student is free to decide the input and output layout for this mini project)
 Hint: You can use split and indexing to fetch the first word and then combine it.
-
+***
 ## Project 7: 
 The task is to generate a random story every time user runs the program.
 Every time the user runs the program, we must produce a random tale. We'll first store the 
@@ -131,7 +131,7 @@ when you pick the portions randomly your complete story must make some sense.
 Hint: 
 • Random module can be used to select random parts of the story stored in different lists.
 • Sections of the story can be an adjective, a preposition, a proper noun, etc.
-
+***
 ## Project 8:
 Your task is to build a currency converter that will allow you to convert currencies from one unit 
 to another, such as converting Indian rupee into pounds, euros, US dollar, Canadian dollar, 
@@ -140,7 +140,7 @@ In this project build a TUI (Text based user interface), where you will enter th
 to be converted and conversion rate. And after conversion display the amount in the target 
 currency.
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 9:
 You have to build a dictionary (Or any other container of your choice) which contains multiple 
 True/false type quiz questions.
@@ -149,7 +149,7 @@ displayed to the user/participant.
 If the participant answers the quiz question correct, then congratulate him and add the scores.
 At the end display the details and score of the participant.
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 10:
 You task is to build a scientific calculator that performs all the below listed functionalities.
 1. Add, sub, multiply, divide, and mod (%) operations on entered integer or floating type 
@@ -160,7 +160,7 @@ numbers.
 Above listed operations user can perform as many numbers of times until user hits the 
 exit.
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 11:
 In this project you have to enter a range [A, B] and system will randomly pick any number from 
 your given range and check the status of that given number.
@@ -177,7 +177,7 @@ Then the properties followed by this number are:
 10 is an even number
 10 is a composite number
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 12:
 In this project user will enter single or multiple numbers and your system will predict that the 
 entered number or number’s is/are valid number(s) in a Fibonacci series or not.
@@ -188,7 +188,7 @@ Because if we plot Fibonacci series 0 1 1 2 3 5 8 13……, In this series 0 is 
 present.
 Constraint: range of the single number or multiple numbers you are entering can be huge.
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 13:
 Create a multiplication table application where user will enter a sentinel value n and the 
 application will display the mathematical multiplication tables till given sentinel value n.
@@ -197,7 +197,7 @@ For example, if user enters n = 4 then application will display the multiplicati
 Constraint:
 • Make use of oop concepts class methods and attributes
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 14:
 You have to create a repository of your classmate’s name and mobile number’s. And whenever 
 you want to search the mobile/contact number of some of your classmate, you can easily search 
@@ -209,7 +209,7 @@ present in the repository.
 2. Your app must be capable of extracting contact numbers of your multiple classmates 
 when required.
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 15:
 In this project you have to enter a positive integer range [A, B] and system will find out the 
 status (Prime or composite) of each number available in the given range. At the end print the 
@@ -224,7 +224,7 @@ Then the status of each number in the range is:
 10 is composite
 Count: 1 prime and 3 composite numbers in the range.
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 16:
 Design an application where user will input two dates.
 1. His/her date of birth in DD/MM/YY format.
@@ -234,7 +234,7 @@ this world.
 Note: Your calculation must be accurate and you have to consider leap and non-leap years 
 separately.
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 17:
 Your task to create a functionality in which when user will input a range of two dates. Then your 
 module will find and print all years in the range of given dates those are leap years separately 
@@ -247,7 +247,7 @@ Leaps years are:
 Non leap years are:
 2001,2002,2005,2006,2007-----------------------------------------------------------------------
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 18:
 Clock Angle Problem
 Clock Angle Problem: Given time in hh:mm format in 24-hour notation, calculate the shorter 
@@ -259,7 +259,7 @@ Output: 90°
 Input: 12:00
 Output: 0° 
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 19:
 Your task is to write a program to find the nth prime palindrome number, n is the input user 
 will give.
@@ -267,7 +267,7 @@ A prime number, such as 127, has no factors other than itself and one. A palindr
 121, is the same number when its digits are reversed. A prime palindrome, such as 131, is both 
 prime and a palindrome. 
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 20: 
 A basket is given to you in the shape of a matrix. If the size of the matrix is N x N then the range 
 of number of eggs you can put in each slot of the basket is 1 to N2 
@@ -287,7 +287,7 @@ Explanation:
  any row or column as well as diagonal is 15
 Note: 2 < = N <= 100
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 21: 
 Your task is to find if it is possible to cut the cake in the below mentioned ways for a given value 
 of N.
@@ -299,7 +299,7 @@ The given cake can be cut in following three ways:
 • Cut the cake into N pieces of any size.
 • Cut the cake into N pieces such that no two of them are equal.
 (Student is free to decide the input and output layout for this mini project)
-
+***
 ## Project 22: 
 Your task is to find the name of the student with maximum marks after updation in marks and 
 the jump in the student’s rank i.e., previous rank – current rank.
@@ -309,3 +309,4 @@ You are given three lists’ names, mark’s and update’s where:
 • Updates contains the integers by which the marks of these students are to be updated.
 (Number of levels a student is ranking up or down must be displayed) 
 (Student is free to decide the input and output layout for this mini project)
+***
