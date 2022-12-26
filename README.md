@@ -310,3 +310,33 @@ You are given three lists’ names, mark’s and update’s where:
 (Number of levels a student is ranking up or down must be displayed) 
 (Student is free to decide the input and output layout for this mini project)
 ***
+## Thanks to all contributors!
+<div>
+<a href="https://github.com/Nilesh220"><img src="https://avatars.githubusercontent.com/u/113936379?v=4" height="64"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/D3FaltXD"><img src="https://avatars.githubusercontent.com/u/100018672?v=4" height="64"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DashingAdi"><img src="https://avatars.githubusercontent.com/u/60130665?v=4" height="64"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DaRkZ1177"><img src="https://avatars.githubusercontent.com/u/118457055?v=4" height="64"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dimebot"><img src="https://avatars.githubusercontent.com/u/115567475?s=64&v=4" height="64"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<a href="https://github.com/awasthi108"><img src="https://avatars.githubusercontent.com/u/79709621?v=4" height="64"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
+<a href="https://github.com/harsh082ip"><img src="https://avatars.githubusercontent.com/u/109286547?v=4" height="64"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/PriyanshK09"><img src="https://avatars.githubusercontent.com/u/75330418?v=4" height="64"></a>
+
+
+
+</div>
+| Name | Github Profile |
+| --- | --- |
+| Nilesh Kumar Gupta | https://github.com/Nilesh220 |
+| Sayan Roy | https://github.com/D3FaltXD |
+| Aditya Kumar Singh | https://github.com/DashingAdi |
+| Paarth Mandyal | https://github.com/DaRkZ1177 |
+| Shivam | https://github.com/dimebot |
+| Shushant Kumar Awasthi | https://github.com/awasthi108 |
+| HARSH VARDHAN SINGH | https://github.com/harsh082ip|
+| Priyansh Khare | https://github.com/PriyanshK09 |
