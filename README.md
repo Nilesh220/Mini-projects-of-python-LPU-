@@ -322,7 +322,6 @@ You are given three lists’ names, mark’s and update’s where:
 
 <a href="https://github.com/awasthi108"><img src="https://avatars.githubusercontent.com/u/79709621?v=4" height="64"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<br><br>
 <a href="https://github.com/harsh082ip"><img src="https://avatars.githubusercontent.com/u/109286547?v=4" height="64"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/PriyanshK09"><img src="https://avatars.githubusercontent.com/u/75330418?v=4" height="64"></a>
